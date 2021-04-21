@@ -7,3 +7,5 @@ This project taught me:
 - Configuring Webpack
 - Local Storage API
 - Patience & Persistence 
+
+https://waream2.github.io/to-do-list
